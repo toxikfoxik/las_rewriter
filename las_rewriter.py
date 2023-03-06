@@ -24,3 +24,5 @@ for i, point in enumerate(classification):
 
 
 cloud2.write(args.output)
+
+#cokolwiek
